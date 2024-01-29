@@ -1,0 +1,3 @@
+ECHO is off.
+Hello 
+hi
