@@ -2,4 +2,4 @@ ECHO is off.
 Hello 
 hi
 
-Text : "***REMOVED***"
+Text : ""
